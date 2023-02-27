@@ -18,7 +18,7 @@ if (userweight / userheight * userheight < 18.5) {
 } else if (userweight / userheight * userheight > 24.9 && userweight / userheight < 29.9) {
     alert("over weight")
 } else if (userweight / userheight * userheight > 29.9 && userweight / userheight < 34.9) {
-    alert()
+    alert("")
 } else if (userweight / userheight * userheight > 34.9 && userweight / userheight < 39.9) {
     alert("obesity (class 2)")
 } else if (userweight / userheight * userheight > 39.9 && userweight / userheight < 40) {
